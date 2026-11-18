@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "amberflip": {
+      "command": "npx",
+      "args": ["-y", "amberflip-cli@1.0.1", "mcp"]
+    }
+  }
+}

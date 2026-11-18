@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "amberflip",
+  "description": "Amberflip: offline file converter and editor for AI apps",
+  "owner": {
+    "name": "Amberflip",
+    "url": "https://amberflip.com"
+  },
+  "plugins": [
+    {
+      "name": "amberflip",
+      "source": "./",
+      "description": "Convert, compress and edit pictures, video, audio and PDFs offline: 38 MCP tools and 9 skills. Needs the Amberflip app or amberflip-cli; free 3-day trial, then a one-time licence key.",
+      "category": "productivity",
+      "tags": ["file-converter", "pdf", "video", "audio", "image", "offline"]
+    }
+  ]
+}

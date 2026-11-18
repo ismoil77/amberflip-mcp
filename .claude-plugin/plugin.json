@@ -1,0 +1,29 @@
+{
+  "name": "amberflip",
+  "displayName": "Amberflip",
+  "version": "1.0.1",
+  "description": "Convert, compress and edit pictures, video, audio and PDFs offline with Amberflip: 38 MCP tools and 9 skills. Nothing is uploaded. Free 3-day trial, then a one-time licence key.",
+  "author": {
+    "name": "Amberflip",
+    "url": "https://amberflip.com"
+  },
+  "homepage": "https://amberflip.com",
+  "repository": "https://github.com/ismoil77/amberflip-mcp",
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "file-converter",
+    "offline",
+    "pdf",
+    "video",
+    "audio",
+    "image",
+    "compress",
+    "metadata",
+    "redact"
+  ],
+  "documentationUrl": "https://github.com/ismoil77/amberflip-mcp#readme",
+  "supportUrl": "https://github.com/ismoil77/amberflip-mcp/issues",
+  "privacyPolicyUrl": "https://amberflip.com/legal/",
+  "termsOfServiceUrl": "https://amberflip.com/legal/"
+}

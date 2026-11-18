@@ -1,0 +1,29 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.amberflip/amberflip",
+  "title": "Amberflip",
+  "description": "Convert, compress and edit pictures, video, audio and PDFs offline. Nothing is uploaded.",
+  "repository": {
+    "url": "https://github.com/ismoil77/amberflip-mcp",
+    "source": "github"
+  },
+  "websiteUrl": "https://amberflip.com",
+  "version": "1.0.1",
+  "packages": [
+    {
+      "registryType": "npm",
+      "identifier": "amberflip-cli",
+      "version": "1.0.1",
+      "runtimeHint": "npx",
+      "transport": {
+        "type": "stdio"
+      },
+      "packageArguments": [
+        {
+          "type": "positional",
+          "value": "mcp"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+Amberflip
+Copyright (c) 2026 Ismoil, the developer of Amberflip
+
+This repository (the manifests, documentation and skills for connecting AI apps to Amberflip) is released under the MIT License, see LICENSE. The Amberflip application and its command-line program amberflip-cli, which contains the MCP server, are proprietary software, are not part of this repository, and are licensed under the end-user agreement at https://amberflip.com/legal/: free to try for 3 days, then a one-time licence key is needed.
